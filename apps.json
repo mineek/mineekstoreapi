@@ -1,0 +1,18 @@
+{
+    "apps": [
+        {
+            "Name": "osu!",
+            "Description": "osu! is a free-to-play rhythm game primarily developed, published and created by Dean Herbert. Originally released for Microsoft Windows on September 16, 2007, the game has also been ported to macOS, iOS, Android, and Windows Phone.",
+            "Developer": "ppy",
+            "Icon": "https://osu.ppy.sh/images/favicon/apple-touch-icon.png",
+            "Screenshot": [],
+            "Releases": [
+                {
+                    "Version": "2023.621.0",
+                    "URL": "https://github.com/ppy/osu/releases/download/2023.621.0/osu.iOS.ipa",
+                    "Description": "osu! for iOS"
+                }
+            ]
+        }
+    ]
+}
